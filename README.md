@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Mohammed Abbas
 
 # 💫 About Me:
-💻 Aspiring Full Stack Developer  <br>🐍 Python | 🚀 Django | ⚛️ React | 🗄️ MySQL<br><br>🌱 Learning, Building, and Growing every day.<br><br>✨ Turning ideas into web applications.
-
+💻 Aspiring Full Stack Developer  <br>
+🐍 Python | 🚀 Django | ⚡ JavaScript | ⚛️ React | 🗄️ MySQL<br><br>
+🌱 Learning, Building, and Growing every day.<br><br>
+✨ Turning ideas into web applications.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_abbas_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohammed Abbas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedabbas50605@gmail.com) 
